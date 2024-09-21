@@ -1,4 +1,4 @@
-# Data-Visualization-Halloween-Decluttering-in-PowerBI
+# Data-Visualization-Decluttering-in-PowerBI
 
 ![image](https://github.com/user-attachments/assets/48043cec-23d8-4244-97e5-07d2c739593a)
 
